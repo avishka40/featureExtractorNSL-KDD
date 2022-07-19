@@ -1,3 +1,6 @@
+This was modified to where it can extract network traffic and pass it to a redis DB 
+
+
 # kdd99_feature_extractor
 Utility for extraction of subset of KDD '99 features [1] from realtime network traffic or .pcap file
 This utility is a part of our project at University of Bergen.
